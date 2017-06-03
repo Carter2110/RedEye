@@ -1,0 +1,9 @@
+C:\Users\ckwon6\Documents\Visual Studio 2017\Projects\RedEye\RedEye\bin\Release\RedEye.exe.config
+C:\Users\ckwon6\Documents\Visual Studio 2017\Projects\RedEye\RedEye\bin\Release\RedEye.exe
+C:\Users\ckwon6\Documents\Visual Studio 2017\Projects\RedEye\RedEye\bin\Release\RedEye.pdb
+C:\Users\ckwon6\Documents\Visual Studio 2017\Projects\RedEye\RedEye\obj\Release\RedEye.Main.resources
+C:\Users\ckwon6\Documents\Visual Studio 2017\Projects\RedEye\RedEye\obj\Release\RedEye.Properties.Resources.resources
+C:\Users\ckwon6\Documents\Visual Studio 2017\Projects\RedEye\RedEye\obj\Release\RedEye.csproj.GenerateResource.Cache
+C:\Users\ckwon6\Documents\Visual Studio 2017\Projects\RedEye\RedEye\obj\Release\RedEye.exe
+C:\Users\ckwon6\Documents\Visual Studio 2017\Projects\RedEye\RedEye\obj\Release\RedEye.pdb
+C:\Users\ckwon6\Documents\Visual Studio 2017\Projects\RedEye\RedEye\obj\Release\RedEye.Form2.resources
