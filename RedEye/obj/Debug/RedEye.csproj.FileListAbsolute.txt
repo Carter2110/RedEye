@@ -27,3 +27,13 @@ C:\Users\Carter\Source\Repos\RedTest\RedEye\obj\Debug\RedEye.Main.resources
 C:\Users\Carter\Source\Repos\RedTest\RedEye\obj\Debug\RedEye.Form2.resources
 C:\Users\Carter\Source\Repos\RedTest\RedEye\obj\Debug\RedEye.Properties.Resources.resources
 C:\Users\Carter\Source\Repos\RedTest\RedEye\obj\Debug\RedEye.csproj.GenerateResource.Cache
+C:\Users\ckwon6\Source\Repos\RedEye\RedEye\bin\Debug\RedEye.exe.config
+C:\Users\ckwon6\Source\Repos\RedEye\RedEye\bin\Debug\RedEye.exe
+C:\Users\ckwon6\Source\Repos\RedEye\RedEye\bin\Debug\RedEye.pdb
+C:\Users\ckwon6\Source\Repos\RedEye\RedEye\obj\Debug\RedEye.csprojResolveAssemblyReference.cache
+C:\Users\ckwon6\Source\Repos\RedEye\RedEye\obj\Debug\RedEye.Main.resources
+C:\Users\ckwon6\Source\Repos\RedEye\RedEye\obj\Debug\RedEye.Form2.resources
+C:\Users\ckwon6\Source\Repos\RedEye\RedEye\obj\Debug\RedEye.Properties.Resources.resources
+C:\Users\ckwon6\Source\Repos\RedEye\RedEye\obj\Debug\RedEye.csproj.GenerateResource.Cache
+C:\Users\ckwon6\Source\Repos\RedEye\RedEye\obj\Debug\RedEye.exe
+C:\Users\ckwon6\Source\Repos\RedEye\RedEye\obj\Debug\RedEye.pdb

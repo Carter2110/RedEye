@@ -56,7 +56,9 @@ namespace RedEye
 
         private void button3_Click(object sender, EventArgs e)
         {
-            txtOutput.Text = output;
+            string outPut;
+            outPut = serialPorty.ReadLine();
+            txtOutput.Text = outPut;
         }
     }
 }
