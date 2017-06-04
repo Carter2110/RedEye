@@ -17,3 +17,13 @@ C:\Users\ckwon6\Documents\Visual Studio 2017\Projects\RedEye\RedEye\obj\Debug\Re
 C:\Users\ckwon6\Documents\Visual Studio 2017\Projects\RedEye\RedEye\obj\Debug\RedEye.exe
 C:\Users\ckwon6\Documents\Visual Studio 2017\Projects\RedEye\RedEye\obj\Debug\RedEye.pdb
 C:\Users\ckwon6\Documents\Visual Studio 2017\Projects\RedEye\RedEye\obj\Debug\RedEye.Form2.resources
+C:\Users\Carter\Source\Repos\RedTest\RedEye\bin\Debug\RedEye.exe.config
+C:\Users\Carter\Source\Repos\RedTest\RedEye\obj\Debug\RedEye.exe
+C:\Users\Carter\Source\Repos\RedTest\RedEye\obj\Debug\RedEye.pdb
+C:\Users\Carter\Source\Repos\RedTest\RedEye\bin\Debug\RedEye.exe
+C:\Users\Carter\Source\Repos\RedTest\RedEye\bin\Debug\RedEye.pdb
+C:\Users\Carter\Source\Repos\RedTest\RedEye\obj\Debug\RedEye.csprojResolveAssemblyReference.cache
+C:\Users\Carter\Source\Repos\RedTest\RedEye\obj\Debug\RedEye.Main.resources
+C:\Users\Carter\Source\Repos\RedTest\RedEye\obj\Debug\RedEye.Form2.resources
+C:\Users\Carter\Source\Repos\RedTest\RedEye\obj\Debug\RedEye.Properties.Resources.resources
+C:\Users\Carter\Source\Repos\RedTest\RedEye\obj\Debug\RedEye.csproj.GenerateResource.Cache

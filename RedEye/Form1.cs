@@ -13,7 +13,7 @@ using System.Threading;
 namespace RedEye
 {   
     /// <summary>
-    /// just wanna see if this works lol
+    /// got git command working
     /// </summary>
     public partial class Main : Form
     {
