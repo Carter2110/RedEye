@@ -11,7 +11,10 @@ using System.IO.Ports;
 using System.Threading;
 
 namespace RedEye
-{
+{   
+    /// <summary>
+    /// just wanna see if this works lol
+    /// </summary>
     public partial class Main : Form
     {
   
